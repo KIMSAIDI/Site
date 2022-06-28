@@ -38,11 +38,20 @@ header.header img {
 
 /* menu de navigation */
 
-
-
 nav.nav{
     margin-top : 35px;
     font-size: 20px;
     list-style: none;
     margin-left : 50px;
+}
+
+/* jeux */
+
+
+.jeux{
+    display: flex;
+}
+
+.delivery-icon{
+    font-size: 15px;
 }
